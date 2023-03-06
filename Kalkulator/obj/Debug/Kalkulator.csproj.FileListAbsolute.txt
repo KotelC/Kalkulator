@@ -1,0 +1,16 @@
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\student\Source\Repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
