@@ -7,24 +7,24 @@
         mc:Ignorable="d"
         Title="Kalkulator" Height="450" Width="800">
     <Grid>
-        <Button x:Name="OK_Button" Content="7" HorizontalAlignment="Left" Margin="26,44,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <TextBox x:Name="ekran" HorizontalAlignment="Left" Margin="26,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" RenderTransformOrigin="0.5,0.5" TextAlignment="Right" KeyDown="etykieta1_KeyDown"/>
-        <Button x:Name="OK_Button_Copy" Content="8" HorizontalAlignment="Left" Margin="56,44,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy1" Content="9" HorizontalAlignment="Left" Margin="86,44,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy2" Content="4" HorizontalAlignment="Left" Margin="26,74,0,0" VerticalAlignment="Top" Height="26" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy3" Content="5" HorizontalAlignment="Left" Margin="56,75,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy4" Content="6" HorizontalAlignment="Left" Margin="86,75,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy5" Content="1" HorizontalAlignment="Left" Margin="26,105,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.64,-0.238"/>
-        <Button x:Name="OK_Button_Copy6" Content="2" HorizontalAlignment="Left" Margin="56,105,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy7" Content="3" HorizontalAlignment="Left" Margin="86,105,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy8" Content="+" HorizontalAlignment="Left" Margin="116,135,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy9" Content="-" HorizontalAlignment="Left" Margin="116,105,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy10" Content="=" HorizontalAlignment="Left" Margin="86,135,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy11" Content="0" HorizontalAlignment="Left" Margin="56,135,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy12" Content="/" HorizontalAlignment="Left" Margin="116,44,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy13" Content="*" HorizontalAlignment="Left" Margin="116,75,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy14" Content="," HorizontalAlignment="Left" Margin="26,135,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy15" Content="C" HorizontalAlignment="Left" Margin="146,44,0,0" VerticalAlignment="Top" Height="25" Width="25" Click="clearbutton_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.4,0.942"/>
+        <Button x:Name="OK_Button" Content="7" HorizontalAlignment="Left" Margin="26,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <TextBox x:Name="ekran" HorizontalAlignment="Left" Margin="26,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="275" RenderTransformOrigin="0.5,0.5" TextAlignment="Right" KeyDown="etykieta1_KeyDown"/>
+        <Button x:Name="OK_Button_Copy" Content="8" HorizontalAlignment="Left" Margin="81,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="-0.5,0.461"/>
+        <Button x:Name="OK_Button_Copy1" Content="9" HorizontalAlignment="Left" Margin="136,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy2" Content="4" HorizontalAlignment="Left" Margin="26,100,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy3" Content="5" HorizontalAlignment="Left" Margin="81,100,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy4" Content="6" HorizontalAlignment="Left" Margin="136,100,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy5" Content="1" HorizontalAlignment="Left" Margin="26,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.64,-0.238"/>
+        <Button x:Name="OK_Button_Copy6" Content="2" HorizontalAlignment="Left" Margin="81,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy7" Content="3" HorizontalAlignment="Left" Margin="136,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="1.16,0.181"/>
+        <Button x:Name="OK_Button_Copy8" Content="+" HorizontalAlignment="Left" Margin="251,100,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy9" Content="-" HorizontalAlignment="Left" Margin="196,100,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy10" Content="=" HorizontalAlignment="Left" Margin="196,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy11" Content="0" HorizontalAlignment="Left" Margin="26,210,0,0" VerticalAlignment="Top" Height="50" Width="160" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.66,1.201"/>
+        <Button x:Name="OK_Button_Copy12" Content="/" HorizontalAlignment="Left" Margin="251,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy13" Content="*" HorizontalAlignment="Left" Margin="196,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy14" Content="," HorizontalAlignment="Left" Margin="251,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy15" Content="C" HorizontalAlignment="Left" Margin="196,210,0,0" VerticalAlignment="Top" Height="50" Width="105" Click="clearbutton_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.4,0.942"/>
 
     </Grid>
 </Window>
