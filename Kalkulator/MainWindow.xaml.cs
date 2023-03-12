@@ -31,7 +31,7 @@ namespace Kalkulator
             operandPressed = false;
             action = "";
             operands = new List<string>();
-            string[] tmp = { "+", "-", "*", "/", "=" };
+            string[] tmp = { "+", "-", "*", "/", "=", "%" };
             
             operands.AddRange(tmp.ToList());
 
@@ -54,6 +54,7 @@ namespace Kalkulator
                     case "-": equal -= Convert.ToDouble(ekran.Text); break;
                     case "*": equal *= Convert.ToDouble(ekran.Text); break;
                     case "/": equal /= Convert.ToDouble(ekran.Text); break;
+                    case "%": equal *= (Convert.ToDouble(ekran.Text)*0.01); break;
                     default: equal = Convert.ToDouble(ekran.Text); break;
                 }
                 if (data != "=") action = data;
