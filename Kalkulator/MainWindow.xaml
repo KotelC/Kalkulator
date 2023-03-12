@@ -25,6 +25,7 @@
         <Button x:Name="Przycisk14" Content="*" HorizontalAlignment="Left" Margin="196,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
         <Button x:Name="Przycisk15" Content="," HorizontalAlignment="Left" Margin="251,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
         <Button x:Name="OK_Button_Copy15" Content="C" HorizontalAlignment="Left" Margin="196,210,0,0" VerticalAlignment="Top" Height="50" Width="105" Click="clearbutton_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.4,0.942"/>
+        <Button x:Name="OK_Button_Copy16" Content="%" HorizontalAlignment="Left" Margin="180,45,0,0" VerticalAlignment="Top" Height="26" Width="22" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
 
     </Grid>
 </Window>
