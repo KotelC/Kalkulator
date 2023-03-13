@@ -1,4 +1,4 @@
-﻿<Window x:Class="Kalkulator.MainWindow"
+<Window x:Class="Kalkulator.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -22,10 +22,10 @@
         <Button x:Name="Przycisk11" Content="=" HorizontalAlignment="Left" Margin="196,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
         <Button x:Name="Przycisk12" Content="0" HorizontalAlignment="Left" Margin="26,210,0,0" VerticalAlignment="Top" Height="50" Width="160" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.66,1.201"/>
         <Button x:Name="Przycisk13" Content="/" HorizontalAlignment="Left" Margin="251,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="Przycisk14" Content="*" HorizontalAlignment="Left" Margin="196,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="Przycisk14" Content="*" HorizontalAlignment="Left" Margin="196,210,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
         <Button x:Name="Przycisk15" Content="," HorizontalAlignment="Left" Margin="251,155,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
-        <Button x:Name="OK_Button_Copy15" Content="C" HorizontalAlignment="Left" Margin="196,210,0,0" VerticalAlignment="Top" Height="50" Width="105" Click="clearbutton_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.4,0.942"/>
-        <Button x:Name="OK_Button_Copy16" Content="%" HorizontalAlignment="Left" Margin="180,45,0,0" VerticalAlignment="Top" Height="26" Width="22" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
+        <Button x:Name="OK_Button_Copy15" Content="C" HorizontalAlignment="Left" Margin="196,45,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="clearbutton_Click" KeyUp="OK_Button_KeyUp" RenderTransformOrigin="0.4,0.942"/>
+        <Button x:Name="OK_Button_Copy16" Content="%" HorizontalAlignment="Left" Margin="251,210,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="btnnumber_Click" KeyUp="OK_Button_KeyUp"/>
 
     </Grid>
 </Window>
